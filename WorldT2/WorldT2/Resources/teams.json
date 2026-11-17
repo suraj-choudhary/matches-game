@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Afghanistan",
+    "flag": "https://flagcdn.com/w160/af.png",
+    "isoCode": "AF"
+  },
+  {
+    "name": "Australia",
+    "flag": "https://flagcdn.com/w160/au.png",
+    "isoCode": "AU"
+  },
+  {
+    "name": "Bangladesh",
+    "flag": "https://flagcdn.com/w160/bd.png",
+    "isoCode": "BD"
+  },
+  {
+    "name": "England",
+    "flag": "https://flagcdn.com/w160/gb-eng.png",
+    "isoCode": "GB-ENG"
+  },
+  {
+    "name": "India",
+    "flag": "https://flagcdn.com/w160/in.png",
+    "isoCode": "IN"
+  },
+  {
+    "name": "New Zealand",
+    "flag": "https://flagcdn.com/w160/nz.png",
+    "isoCode": "NZ"
+  },
+  {
+    "name": "Pakistan",
+    "flag": "https://flagcdn.com/w160/pk.png",
+    "isoCode": "PK"
+  },
+  {
+    "name": "South Africa",
+    "flag": "https://flagcdn.com/w160/za.png",
+    "isoCode": "ZA"
+  },
+  {
+    "name": "Sri Lanka",
+    "flag": "https://flagcdn.com/w160/lk.png",
+    "isoCode": "LK"
+  },
+  {
+    "name": "West Indies",
+    "flag": "https://flagcdn.com/w160/jm.png",
+    "isoCode": "WI"
+  }
+]
